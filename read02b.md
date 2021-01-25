@@ -8,14 +8,14 @@ What is git?
   5. states
 
 To set up a Git repository
-   1. Importing    *** cd test (cd = change directory)***
-   2. cloning      ***git clone https://github.com/test ***
+   1. Importing    cd test (cd = change directory)
+   2. cloning      git clone https://github.com/test 
 
 
- check the atatus of your project *** git status ***
+ check the atatus of your project  git status 
 
 
-To track and stage a file   *** git add. ***
+To track and stage a file    git add . 
 
 
- In order to commit ***git commit -m “made change x,y,z”***   OR *** commit -a ***
+ In order to commit git commit -m “made change x,y,z”***   OR *** commit -a 
