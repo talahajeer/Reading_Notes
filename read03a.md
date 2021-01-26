@@ -33,7 +33,34 @@ Now you need a brief about HTML
  1. HTML pages are text documents.
  2. HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
  3. Tags are often referred to as elements.
- 4. Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end  ex: <p> </p>.
- 5. Opening tags can carry attributes, which tell us more about the content of that element ex: <p lang = "fr"> this will specify the language of the paragraph in french.
+ 4. Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
+ 5. Opening tags can carry attributes, which tell us more about the content of that element.
  6. Attributes require a name and a value ex: lang = "fr".
  7. To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
+
+#### HTML traditional layouts
+For a long time, web page authors used div elements to group
+together related elements on the page (such as the elements that form a
+header, an article, footer or sidebar). Authors used class or id attributes
+to indicate the role of the div element in the structure of the page.
+
+
+#### New HTML5 layout elements
+HTML5 introduces a new set of elements that allow you to divide up the
+parts of a page. The names of these elements indicate the kind of content
+you will find in them. They are still subject to change, but that has not
+stopped many web page authors using them already.
+
+
+#### DOCTYPE
+Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using.
+
+
+#### Comments in HTML
+If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
+<!-- comment goes here -->
+It is a good idea to add comments to your code because, no matter how familiar you are with the page at the time of writing it, when you come back to it later (or if someone else needs to look at the code), comments will make it much easier to understand.
+
+
+#### ID Attribute
+Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character). It is important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique).
