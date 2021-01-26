@@ -1,7 +1,7 @@
 
 
 
-1. [mindset] (read01a.md)
+1. [mindset](read01a.md)
 2. [AboutGit](read02b.md)
 3. [HTML](read03a.md)
 
