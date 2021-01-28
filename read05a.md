@@ -16,9 +16,9 @@
  8. "<=" less than or equal to
  
 ## Logical Operators:
- 1. && logical AND 
- 2. || logical OR
- 3. ! logical NOT
+ 1. "&&" logical AND 
+ 2. "||" logical OR
+ 3. "!" logical NOT
 
 
 ## Loops:
