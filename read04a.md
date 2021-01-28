@@ -46,7 +46,7 @@ An expression evaluates into (results in) a single value. Broadly speaking there
  * Expressions that jsut assign a value to a variable.
  * EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE.
 
- ## Operators:
+## Operators:
   * Assignment operators. =
   * Arithmatic operators. + - % / * ....
   * String operators. + 
