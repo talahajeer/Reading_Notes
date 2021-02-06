@@ -1,5 +1,5 @@
 # Code 201 Reading Notes
-1. [HTML and JS](reading_notes/201/class-01)
+1. [HTML and JS](class-01)
 
 
 
