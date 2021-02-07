@@ -3,7 +3,7 @@
 |   Readings   |            Link           |
 |      ---     |              ---          |
 |  HTML and JS | [HTML and JS](201/read01) |   
-|    read2     |     [read2](201/read02)   |   
+|    REVIEW    |     [REVIEW](201/read02)  |   
 |    read3     |     [read3](201/read03)   |   
 |    read4     |     [read4](201/read04)   |  
 |    read5     |     [read5](201/read05)   |  
