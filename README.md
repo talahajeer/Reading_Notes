@@ -4,7 +4,7 @@
 |      ---     |              ---          |
 |  HTML and JS | [HTML and JS](201/read01) |   
 |    REVIEW    |     [REVIEW](201/read02)  |   
-|    read3     |     [read3](201/read03)   |   
+|  List&boxes  | [List & boxes](201/read03)|   
 |    read4     |     [read4](201/read04)   |  
 |    read5     |     [read5](201/read05)   |  
 |    read6     |     [read6](201/read06)   |  
