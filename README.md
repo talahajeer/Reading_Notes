@@ -5,8 +5,8 @@
 |  HTML and JS | [HTML and JS](201/read01) |   
 |    REVIEW    |     [REVIEW](201/read02)  |   
 |  List&boxes  | [List & boxes](201/read03)|   
-|  Links&Fun.  |     [read4](201/read04)   |  
-|    read5     |     [read5](201/read05)   |  
+|  Links&Fun.  |  [Links&Fun.](201/read04) |  
+| Imgs,colors  |  [Imgs,colors](201/read05)|  
 |    read6     |     [read6](201/read06)   |  
 |    read7     |     [read7](201/read07)   |  
 |    read8     |     [read8](201/read08)   |  
