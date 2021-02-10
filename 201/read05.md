@@ -1,5 +1,5 @@
 # HTML Images
-     To add an image into the page you need to use an img element. This is an empty element (which means there is no closing tag). It must carry the following two attributes:
+ To add an image into the page you need to use an img element. This is an empty element (which means there is no closing tag). It must carry the following two attributes:
  1. src 
      <br>
      This tells the browser where it can find the image file.
