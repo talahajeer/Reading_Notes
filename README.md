@@ -7,7 +7,7 @@
 |  List&boxes  | [List & boxes](201/read03)|   
 |  Links&Fun.  |  [Links&Fun.](201/read04) |  
 | Imgs,colors  |  [Imgs,colors](201/read05)|  
-|    read6     |     [read6](201/read06)   |  
+|  JS objects  |  [JS objects](201/read06) |  
 |    read7     |     [read7](201/read07)   |  
 |    read8     |     [read8](201/read08)   |  
 |    read9     |     [read9](201/read09)   | 
