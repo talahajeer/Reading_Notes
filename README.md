@@ -8,7 +8,7 @@
 |  Links&Fun.  |  [Links&Fun.](201/read04) |  
 | Imgs,colors  |  [Imgs,colors](201/read05)|  
 |  JS objects  |  [JS objects](201/read06) |  
-|    read7     |     [read7](201/read07)   |  
+| HTML tables  | [HTML tables](201/read07) |  
 |    read8     |     [read8](201/read08)   |  
 |    read9     |     [read9](201/read09)   | 
 |    read10    |     [read10](201/read10)  |   
