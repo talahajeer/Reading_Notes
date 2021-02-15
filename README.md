@@ -9,7 +9,7 @@
 | Imgs,colors  |  [Imgs,colors](201/read05)|  
 |  JS objects  |  [JS objects](201/read06) |  
 | HTML tables  | [HTML tables](201/read07) |  
-|    read8     |     [read8](201/read08)   |  
+|  CSS layout  | [CSS layout ](201/read08) |  
 |    read9     |     [read9](201/read09)   | 
 |    read10    |     [read10](201/read10)  |   
 |    read11    |     [read11](201/read11)  |  
