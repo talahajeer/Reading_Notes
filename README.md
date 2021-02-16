@@ -1,22 +1,22 @@
 # Code 201 Reading Notes
 
-|   Readings   |            Link           |
-|      ---     |              ---          |
-|  HTML and JS | [HTML and JS](201/read01) |   
-|    REVIEW    |     [REVIEW](201/read02)  |   
-|  List&boxes  | [List & boxes](201/read03)|   
-|  Links&Fun.  |  [Links&Fun.](201/read04) |  
-| Imgs,colors  |  [Imgs,colors](201/read05)|  
-|  JS objects  |  [JS objects](201/read06) |  
-| HTML tables  | [HTML tables](201/read07) |  
-|  CSS layout  | [CSS layout ](201/read08) |  
-|    read9     |     [read9](201/read09)   | 
-|    read10    |     [read10](201/read10)  |   
-|    read11    |     [read11](201/read11)  |  
-|    read12    |     [read12](201/read12)  |  
-|    read13    |     [read13](201/read13)  |  
-|    read14    |     [read14](201/read14)  |  
-|    read15    |     [read15](201/read15)  |  
+|   No.   |   Readings   |            Link           |
+|   ---   |      ---     |              ---          |
+| Reed01  |  HTML and JS | [HTML and JS](201/read01) |   
+| Reed02  |    REVIEW    |     [REVIEW](201/read02)  |   
+| Reed03  |  List&boxes  | [List & boxes](201/read03)|   
+| Reed04  |  Links&Fun.  |  [Links&Fun.](201/read04) |  
+| Reed05  | Imgs,colors  |  [Imgs,colors](201/read05)|  
+| Reed06  |  JS objects  |  [JS objects](201/read06) |  
+| Reed07  | HTML tables  | [HTML tables](201/read07) |  
+| Reed08  |  CSS layout  | [CSS layout ](201/read08) |  
+| Reed09  | Forms&Events |[Forms&Events](201/read09) | 
+| Reed10  |    read10    |     [read10](201/read10)  |   
+| Reed11  |    read11    |     [read11](201/read11)  |  
+| Reed12  |    read12    |     [read12](201/read12)  |  
+| Reed13  |    read13    |     [read13](201/read13)  |  
+| Reed14  |    read14    |     [read14](201/read14)  |  
+| Reed15  |    read15    |     [read15](201/read15)  |  
 
 
 # Code 102 Reading Notes
