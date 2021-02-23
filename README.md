@@ -14,8 +14,8 @@
 | Reed10  |ErrorDebugging|[ErrorDebugging](201/read10)|   
 | Reed11  | Audio-Image  |  [Audio-Image](201/read11) |  
 | Reed12  |  Docs&Charts | [Docs&Charts](201/read12)  |  
-| Reed13  |    read13    |     [read13](201/read13)   |  
-| Reed14  |    read14    |     [read14](201/read14)   |  
+| Reed13  |local storage |[local storage](201/read13) |  
+| Reed14  |    read14    |     [read14](201/read14)   | 
 | Reed15  |    read15    |     [read15](201/read15)   |  
 
 
