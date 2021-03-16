@@ -1,3 +1,9 @@
+# Code 301 Reading Notes
+
+|   No.   |   Readings   |            Link            |
+|   ---   |      ---     |              ---           |
+| Reed01  |    read01    |   [read01](301/read01.md)  |   
+
 # Code 201 Reading Notes
 
 |   No.   |   Readings   |            Link            |
