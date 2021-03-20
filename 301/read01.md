@@ -40,4 +40,4 @@ One quick way to make media scalable is by using the max-width property with a v
 
 
 
- ##### Quoting from https://learn.shayhowe.com/advanced-html-css/responsive-web-design/     and    https://css-tricks.com/all-about-floats/
+##### Quoting from https://learn.shayhowe.com/advanced-html-css/responsive-web-design/     and    https://css-tricks.com/all-about-floats/
