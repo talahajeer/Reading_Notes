@@ -27,4 +27,4 @@
 
  Most importantly, the flexbox layout is direction-agnostic as opposed to the regular layouts (block which is vertically-based and inline which is horizontally-based). While those work well for pages, they lack flexibility (no pun intended) to support large or complex applications (especially when it comes to orientation changing, resizing, stretching, shrinking, etc.).
 
- ![FlexBox](../Screenshot 2021-03-23 003057.png)
+ ![FlexBox](./Screenshot 2021-03-23 003057.png)
