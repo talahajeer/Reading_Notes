@@ -4,7 +4,8 @@
 |   ---   |      ---     |              ---           |
 | Reed01  |    read01    |   [read01](301/read01.md)  |   
 | Reed02  |    read02    |   [read02](301/read02.md)  | 
-| Reed03  |    read03    |   [read03](301/read03.md)  | 
+| Reed03  |    read03    |   [read03](301/read03.md)  |
+| Reed04  |    read04    |   [read04](301/read04.md)  | 
 
 # Code 201 Reading Notes
 

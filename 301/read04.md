@@ -15,4 +15,5 @@ The element on which display: grid is applied. It’s the direct parent of all t
 The children (i.e. direct descendants) of the grid container. Here the item elements are grid items, but sub-item isn’t.
 <br>
 <br>
-![FlexBox](301/screenshots/Screenshot 2021-03-23 234335.png)
+
+![Grid](../301/screenshots/Screenshot 2021-03-23 234335.png)
