@@ -15,6 +15,7 @@
 | Reed11  |    read11    |   [read11](301/read11.md)  |
 | Reed12  |    read12    |   [read12](301/read12.md)  |
 | Reed13  |    read13    |   [read13](301/read13.md)  |
+| Reed14a |    read14a   | [read14a](301/read14a.md)  |
 
 
 # Code 201 Reading Notes
