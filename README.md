@@ -1,3 +1,10 @@
+# Code 401 Reading Notes
+
+|   No.   |   Readings   |            Link            |
+|   ---   |      ---     |              ---           |
+| Reed01  |    read01    |   [read01](401/read01.md)  |   
+
+
 # Code 301 Reading Notes
 
 |   No.   |   Readings   |            Link            |
