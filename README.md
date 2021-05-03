@@ -2,7 +2,8 @@
 
 |   No.   |   Readings   |            Link            |
 |   ---   |      ---     |              ---           |
-| Reed01  |    read01    |   [read01](401/read01.md)  |   
+| Reed01  |    read01    |   [read01](401/read01.md)  |
+| Reed02  |    read02    |   [read02](401/read02.md)  |     
 
 
 # Code 301 Reading Notes
