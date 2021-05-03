@@ -4,7 +4,7 @@
 |   ---   |      ---     |              ---           |
 | Reed01  |    read01    |   [read01](401/read01.md)  |
 | Reed02  |    read02    |   [read02](401/read02.md)  |     
-
+| Reed03  |    read03    |   [read03](401/read03.md)  |
 
 # Code 301 Reading Notes
 
