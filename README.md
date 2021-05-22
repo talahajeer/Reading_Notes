@@ -10,6 +10,11 @@
 | Reed06  |    read06    |   [read06](401/read06.md)  |
 | Reed07  |    read07    |   [read07](401/read07.md)  |
 | Reed08  |    read08    |   [read08](401/read08.md)  |
+| Reed09  |    read09    |   [read09](401/read09.md)  |
+| Reed10  |    read10    |   [read10](401/read10.md)  |
+| Reed11  |    read11    |   [read11](401/read11.md)  |
+
+
 
 # Code 301 Reading Notes
 
