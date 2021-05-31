@@ -18,8 +18,8 @@
 | Reed14  |    read14    |   [read14](401/read14.md)  |
 | Reed15  |    read15    |   [read15](401/read15.md)  |
 | Reed16  |    read16    |   [read16](401/read16.md)  |
-
-
+| Reed17  |    read17    |   [read17](401/read17.md)  |
+| Reed18  |    read18    |   [read18](401/read18.md)  |
 
 
 
