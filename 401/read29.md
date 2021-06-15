@@ -21,7 +21,7 @@ $ pipenv shell
 (accounts) $ django-admin.py startproject config .
 (accounts) $ python manage.py startapp accounts
 (accounts) $ python manage.py runserver
-
+```
 ## Custom User Model
  Creating our initial custom user model requires four steps:
 
