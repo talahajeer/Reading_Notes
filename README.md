@@ -26,6 +26,9 @@
 | Reed28  |    read28    |   [read28](401/read28.md)  |
 | Reed29  |    read29    |   [read29](401/read29.md)  |
 | Reed30  |    read30    |   [read30](401/read30.md)  |
+| Reed31  |    read31    |   [read31](401/read31.md)  |
+| Reed32  |    read32    |   [read32](401/read32.md)  |
+
 
 # Code 301 Reading Notes
 
