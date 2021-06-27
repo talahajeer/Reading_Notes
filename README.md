@@ -30,6 +30,9 @@
 | Reed32  |    read32    |   [read32](401/read32.md)  |
 | Reed33  |    read33    |   [read33](401/read33.md)  |
 | Reed34  |    read34    |   [read34](401/read34.md)  |
+| Reed35  |    read35    |   [read35](401/read35.md)  |
+| Reed36  |    read36    |   [read36](401/read36.md)  |
+| Reed37  |    read37    |   [read37](401/read37.md)  |
 
 
 # Code 301 Reading Notes
