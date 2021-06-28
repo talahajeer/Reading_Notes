@@ -33,6 +33,7 @@
 | Reed35  |    read35    |   [read35](401/read35.md)  |
 | Reed36  |    read36    |   [read36](401/read36.md)  |
 | Reed37  |    read37    |   [read37](401/read37.md)  |
+| Reed38  |    read38    |   [read38](401/read38.md)  |
 
 
 # Code 301 Reading Notes
