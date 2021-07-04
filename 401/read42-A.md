@@ -1,0 +1,5 @@
+# Ethics in the workplace
+ It is important to understand that ethical behavior in the workplace can stimulate positive employee behaviors that lead to organizational growth, just as unethical behavior in the workplace can inspire damaging headlines that lead to organizational demise. Simply, organizational stakeholders that include individuals, groups and organizations of various types enter into a relationship with a business organization for that business to protect their interests in a specific way. Therefore, there is a mutual expectation that stakeholders and business organizations act in an ethical manner and in each other’s best interest.
+
+# Ethics in the technology
+ When we think of ethical issues, we do not usually think about technology. Even though it is not on the top of our minds when we think about ethical issues, technology poses an ethical dilemma on producers and consumers alike. The subject of technoethics, or the ethical implications of technology, have been studied by different philosophers 
