@@ -36,6 +36,8 @@
 | Reed38  |    read38    |   [read38](401/read38.md)  |
 | Reed39  |    read39    |   [read39](401/read39.md)  |
 | Reed41  |    read41    |   [read41](401/read41.md)  |
+| Reed42  |    read42    |   [read42](401/read42.md)  |
+| Reed4-A |    read42-A  |[read42-A](401/read42-A.md) |
 
 
 # Code 301 Reading Notes
